@@ -186,10 +186,6 @@ L'ensemble des émissions des pièces de 5 francs (0,05 F), 2 francs (0,02 F) et
 
 L'émission des billets de banque s'effectue, d'une part, en ce qui concerne la France métropolitaine, conformément aux dispositions législatives relatives à la Banque de France, et, d'autre part, en ce qui concerne les départements d'outre-mer, conformément aux dispositions des ordonnances des 27 juin et 28 août 1944 attribuant à la Caisse centrale de la France d'outre-mer le privilège d'émission dans ces départements.
 
-### Article 35
-
-Sous réserve des dispositions de l'article précédent, la souscription ou l'émission de billets au porteur ayant pour objet de remplacer ou de suppléer la monnaie est punie des peines portées contre les faux monnayeurs.
-
 ## Paragraphe II : Contrefaçon des billets de banque.
 
 ### Article 36

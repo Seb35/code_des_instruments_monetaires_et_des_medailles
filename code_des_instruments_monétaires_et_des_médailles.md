@@ -16,22 +16,6 @@ Le compte détaillé des opérations de la régie est joint, chaque année, au c
 
 Par dérogation à l'article 1er, le ministre de l'économie et des finances est autorisé à faire fabriquer par l'industrie privée les monnaies françaises de billon.
 
-#### Article 5
-
-Il est interdit d'employer ou de détenir, à moins d'y avoir été préalablement autorisé, des machines, appareils ou instruments susceptibles d'être utilisés dans la fabrication des monnaies.
-
-Les autorisations sont délivrées à Paris par le préfet de police, dans les départements par le préfet pour l'arrondissement chef-lieu, et par les sous-préfets pour les autres arrondissements. Il est interdit de livrer, à quelque titre que ce soit, à des personnes non pourvues de l'autorisation prévue aux alinéas précédents, lesdites machines, appareils ou instruments.
-
-#### Article 6
-
-Les machines, appareils et instruments auxquels sont applicables les interdictions portées par l'article 5 sont désignés par des décrets. Ceux-ci règlent les formes et conditions des autorisations qui y sont prévues et déterminent toutes les mesures d'exécution des articles 5 et 6.
-
-#### Article 7
-
-Toute infraction aux dispositions des articles 5 et 6 ou du décret, rendu pour leur exécution, sera punie d'une amende de 60 à 15.000 F [*sanctions*] et de la confiscation des machines, appareils ou instruments employés, détenus ou livrés irrégulièrement.
-
-En cas de récidive, l'amende sera de 1.800 à 16.000 F.
-
 #### Article 8
 
 Pour toutes les monnaies françaises dont la fabrication est prévue par les lois existantes en un métal autre que l'or ou l'argent, la composition de l'alliage et les caractéristiques, notamment le poids et le diamètre, ainsi que les tolérances de poids et de titre, peuvent être modifiés par décrets pris sur le rapport du ministre de l'économie et des finances.
@@ -52,7 +36,7 @@ Les particuliers qui font frapper des médailles ou jetons sont assujettis aux l
 
 #### Article 11
 
-Chacun des contrevenants aux dispositions de l'article 9 sera condamné à une amende de 15.000 F [*sanctions*] et à une somme double en cas de récidive.
+Chacun des contrevenants aux dispositions de l'article 9 sera condamné à une amende de 25.000 F [*sanctions*] et à 50.000 F en cas de récidive.
 
 #### Article 12
 
@@ -70,13 +54,17 @@ Sous peine d'une amende prévue par le 5° de l'article 131-13 du code pénal po
 
 ### Paragraphe II : Trafic des monnaies étrangères.
 
+#### Article 17
+
+L'introduction des monnaies en métal commun de fabrication étrangère est prohibée, sous les peines portées par les lois concernant les marchandises prohibées à l'entrée du territoire.
+
 #### Article 18
 
 Elles ne peuvent être admises dans les caisses publiques en paiement de droits et contributions de quelque nature qu'ils soient, payables en numéraire.
 
 #### Article 19
 
-L'article 135 du code pénal est applicable à la circulation, en dehors du rayon frontière, des monnaies de billon n'ayant pas cours légal en France quand elles ne sont pas accompagnées d'une expédition délivrée par le service des douanes ou des contributions indirectes.
+Les dispositions de l'article 442-7 du code pénal sont applicables à la circulation en dehors du rayon des douanes des monnaies en métal commun n'ayant pas cours légal en France quand elles ne sont pas accompagnées d'une expédition délivrée par le service des douanes ou des contributions indirectes.
 
 Dans tous les cas, la monnaie saisie sera confisquée.
 
@@ -92,7 +80,7 @@ Les employés des contributions indirectes sont autorisés, concurremment avec t
 
 #### Article 22
 
-La contrefaçon, l'altération et la coloration des monnaies, ainsi que l'émission ou l'usage de fausses monnaies, sont punis dans les conditions prévues aux articles 132, 133, 134, 135 et 138 du code pénal [*sanctions*].
+La contrefaçon et la falsification des monnaies, ainsi que le transport, la mise en circulation et la détention en vue de la mise en circulation de monnaies contrefaites ou falsifiées sont réprimés par les articles 442-1 à 442-7 du code pénal.
 
 ## Section III : Monnaies ayant cours légal.
 
@@ -162,7 +150,7 @@ L'émission des billets de banque s'effectue, d'une part, en ce qui concerne la 
 
 ### Article 36
 
-La contrefaçon de billets de banque, l'émission de billets contrefaits ou l'usage de telles coupures sont punis dans les conditions prévues à l'article 139 du code pénal [*sanctions*].
+La contrefaçon et la falsification des billets de banque, ainsi que le transport, la mise en circulation et la détention en vue de la mise en circulation de billets contrefaits ou falsifiés sont réprimés par les articles 442-1 à 442-7 du code pénal.
 
 # Chapitre III : Imitation de billets de banque et de monnaies.
 
@@ -170,15 +158,25 @@ La contrefaçon de billets de banque, l'émission de billets contrefaits ou l'us
 
 Sont interdits la fabrication, la vente, le colportage et la distribution de tous imprimés ou formules obtenus par un procédé quelconque qui, par leur forme extérieure, présenteraient avec les billets de banque ou les billets susceptibles d'être émis par l'Etat une ressemblance de nature à faciliter l'acceptation desdits imprimés ou formules au lieu et place de valeurs imitées.
 
-Indépendamment des contrefaçons ou altérations prévues et punies par les articles 132 et 133 du Code pénal, sont également interdits la fabrication, la vente, le colportage et la distribution de toutes les imitations des monnaies ayant cours légal en France et des monnaies étrangères.
+Indépendamment des contrefaçons ou altérations prévues et punies par les articles 442-1 et 442-2 du code pénal, sont également interdits la fabrication, la vente, le colportage et la distribution de toutes les imitations des monnaies ayant cours légal en France et des monnaies étrangères.
 
 ## Article 38
 
-Toute infraction aux dispositions de l'article précédent sera punie d'un emprisonnement de cinq jours à six mois et d'une amende de 60 à 20.000 F [*sanctions*].
+Toute infraction aux dispositions de l'article précédent sera punie d'un emprisonnement de six mois et d'une amende de 25.000 F.
 
 Les imprimés ou formules, les monnaies imitées ainsi que les planches, matrices et autres instruments ayant servi à la confection seront saisis et confisqués.
 
 # Chapitre IV : Dispositions communes.
+
+## Article 38-1
+
+Lorsque des poursuites pénales sont exercées, quelle que soit la qualification du crime ou du délit retenue, la confiscation des pièces de monnaie ou des billets de banque contrefaits ou falsifiés, ainsi que des matières et instruments spécialement destinés à la fabrication des pièces de monnaie ou des billets de banque, est ordonnée par la décision statuant sur l'action publique, conformément aux dispositions des deux derniers alinéas de l'article 442-13 du code pénal.
+
+## Article 38-2
+
+Toute personne qui a reçu des signes monétaires contrefaits ou falsifiés a l'obligation de les remettre ou de les faire remettre à la Banque de France ou à l'administration des Monnaies et médailles, selon qu'il s'agit de billets de banque ou de monnaies métalliques.
+
+La Banque de France et l'administration des Monnaies et médailles sont habilitées à retenir et éventuellement à détruire les signes monétaires qu'elles reconnaissent comme contrefaits ou falsifiés.
 
 ## Article 39
 

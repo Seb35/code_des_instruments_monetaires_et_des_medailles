@@ -146,6 +146,12 @@ Le pouvoir libératoire des pièces de 5 francs (0,05 F) est limité, entre part
 
 Le bénéfice résultant de la frappe des pièces visées à l'article 25 est compris dans l'excédent des recettes sur les dépenses du budget annexe de l'administration des monnaies et médailles.
 
+### Article 28
+
+L'administration des monnaies et médailles est autorisée à frapper, pour le compte de l'Etat, des pièces de 10 francs (0,10 F), 20 francs (0,20 F) et 50 francs (0,50 F) en métal commun dont la composition, les caractéristiques et le type sont fixés par arrêté du ministre de l'économie et des finances.
+
+L'ensemble des émissions des pièces de 10 francs (0,10 F) , 20 francs (0,20 F) et 50 francs (0,50 F), visées à l'alinéa précédent, ne pourra dépasser 40 milliards de francs (400 000 000 F).
+
 ### Article 29
 
 Le pouvoir libératoire des monnaies visées à l'article 28 est limité, entre les particuliers à la somme de 250 francs (2,50 F) pour les pièces de 10 francs (0,10 F) et de 20 francs (0,20 F) et à la somme de 500 francs (5 F) pour les pièces de 50 francs (0,50 F).

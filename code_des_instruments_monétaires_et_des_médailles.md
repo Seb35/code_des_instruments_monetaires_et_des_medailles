@@ -2,12 +2,6 @@
 
 ## Section I : Fabrication des monnaies et médailles
 
-### Paragraphe I : Frappe des monnaies métalliques.
-
-#### Article 2
-
-Le compte détaillé des opérations de la régie est joint, chaque année, au compte général de l'administration des finances.
-
 ### Paragraphe II : Frappe des médailles.
 
 #### Article 9
@@ -37,18 +31,6 @@ Les coins et poinçons de médailles déposés à l'hôtel des monnaies depuis p
 Il doit être déposé, tant à la Bibliothèque nationale qu'au musée monétaire de l'administration des monnaies et médailles, deux exemplaires de chaque type nouveau de monnaie nationale et un exemplaire en bronze de chaque médaille nouvelle frappée à la Monnaie.
 
 Sous peine d'une amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5 ème classe [*sanctions*] pour chaque infraction dûment constatée, toute personne autorisée à frapper des médailles en dehors de la Monnaie devra déposer à la Bibliothèque nationale, d'une part, et au musée monétaire, d'autre part, dans le délai de quarante jours après la première frappe, un exemplaire de chaque médaille nouvelle choisi parmi les meilleurs au point de vue de la perfection d'exécution.
-
-## Section III : Monnaies ayant cours légal.
-
-### Article 33
-
-L'administration des monnaies et médailles est autorisée à frapper, pour le compte de l'Etat, des pièces de 5 francs (0,05 F), 2 francs (0,02 F) et 1 franc (0,01 F) en métal commun destinées à être mises en circulation dans le département de la Réunion.
-
-La composition, les caractéristiques et le type de ces pièces sont fixés par arrêté pris conjointement par le ministre des finances et le ministre de l'intérieur.
-
-Le pouvoir libératoire de ces pièces est limité à 250 francs (2,50 F) pour les pièces de 5 francs (0,05 F) et à 100 francs (1 F) pour les autres pièces.
-
-L'ensemble des émissions des pièces de 5 francs (0,05 F), 2 francs (0,02 F) et 1 franc (0,01 F) visées au premier alinéa ne pourra dépasser 100 millions de francs (1 000 000 F).
 
 # Chapitre IV : Dispositions communes.
 

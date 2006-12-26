@@ -8,7 +8,7 @@
 
 Il est expressément défendu à toutes personnes, quelles que soient les professions qu'elles exercent, de frapper ou de faire frapper des médailles, jetons ou pièces de plaisir, d'or, d'argent et autres métaux, ailleurs que dans les ateliers de la monnaie, à moins d'être munies d'une autorisation spéciale du ministre de l'économie et des finances.
 
-Néanmoins, tout dessinateur ou graveur ou autre personne peut dessiner ou graver, faire dessiner ou graver des médailles ; celles-ci sont frappées avec le coin qu'ils remettent à l'administration des monnaies et médailles.
+Néanmoins, tout dessinateur ou graveur ou autre personne peut dessiner ou graver, faire dessiner ou graver des médailles ; celles-ci sont frappées avec le coin qu'ils remettent à la Monnaie de Paris.
 
 Les frais de fabrication sont réglés par le ministre de l'économie et des finances.
 
@@ -28,9 +28,9 @@ Les coins et poinçons de médailles déposés à l'hôtel des monnaies depuis p
 
 #### Article 13
 
-Il doit être déposé, tant à la Bibliothèque nationale qu'au musée monétaire de l'administration des monnaies et médailles, deux exemplaires de chaque type nouveau de monnaie nationale et un exemplaire en bronze de chaque médaille nouvelle frappée à la Monnaie.
+Il doit être déposé, tant à la Bibliothèque nationale qu'au musée monétaire de la Monnaie de Paris, deux exemplaires de chaque type nouveau de monnaie nationale et un exemplaire en bronze de chaque médaille nouvelle frappée à la Monnaie.
 
-Sous peine d'une amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5 ème classe [*sanctions*] pour chaque infraction dûment constatée, toute personne autorisée à frapper des médailles en dehors de la Monnaie devra déposer à la Bibliothèque nationale, d'une part, et au musée monétaire, d'autre part, dans le délai de quarante jours après la première frappe, un exemplaire de chaque médaille nouvelle choisi parmi les meilleurs au point de vue de la perfection d'exécution.
+Sous peine d'une amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5 ème classe pour chaque infraction dûment constatée, toute personne autorisée à frapper des médailles en dehors de la Monnaie devra déposer à la Bibliothèque nationale, d'une part, et au musée monétaire, d'autre part, dans le délai de quarante jours après la première frappe, un exemplaire de chaque médaille nouvelle choisi parmi les meilleurs au point de vue de la perfection d'exécution.
 
 # Chapitre IV : Dispositions communes.
 
